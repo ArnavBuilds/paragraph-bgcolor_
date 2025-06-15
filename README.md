@@ -19,6 +19,6 @@ Just open the `index.html` file in your browser to see the styled paragraph.
 
 ## 📇 Author
 
-**Arnav Sathe*
+*Arnav Sathe*
 
 
